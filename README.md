@@ -4,9 +4,11 @@ I recently graduated as a Master in Mechanical Engineering from the University o
 
 Beginning with a Caesar shift encoder and decoder in QB64, I have progressed to many other languages to achieve my personal projects including Python, Java, C++, Rust, HTML, CSS & JavaScript.
 
-For more information about me, check out my [portfolio page](https://jackrekirby.github.io/Portfolio/).
+* For more information about me, check out my [portfolio page](https://jackrekirby.github.io/Portfolio/).
 
-If you wish to contact me, my email is [jackrekirby@gmail.com](mailto:jackrekirby@gmail.com).
+* Find me on LinkedIn at [linkedin.com/in/jackrekirby/](https://www.linkedin.com/in/jackrekirby/)
+
+* If you wish to contact me, my email is [jackrekirby@gmail.com](mailto:jackrekirby@gmail.com).
 
 <!---
 Jackrekirby/Jackrekirby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
