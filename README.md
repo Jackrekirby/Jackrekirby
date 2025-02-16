@@ -1,10 +1,12 @@
-Hi, I’m Jack Kirby
+Hi I’m Jack Kirby,
 
-I recently graduated as a Master in Mechanical Engineering from the University of Warwick. Alongside my formal education, since 2013 I have been developing my programming skills. 
+I have been a software engineer at Aurora Energy Research in Oxford since Autumn 2022.
 
-Beginning with a Caesar shift encoder and decoder in QB64, I have progressed to many other languages to achieve my personal projects including Python, Java, C++, Rust, HTML, CSS & JavaScript.
+I graduated with a Master's in Mechanical Engineering from the University of Warwick in 2022. Alongside my formal education, since 2013 I have been developing my programming skills.
 
-* For more information about me, check out my [portfolio page](https://jackrekirby.github.io/Portfolio/).
+Beginning with a Caesar shift encoder and decoder in QB64, I have progressed to many other languages to achieve my personal projects including Python, Java, C++, Rust, Go, HTML, CSS & JavaScript.
+
+* For more information about me, check out my [portfolio page](https://jackrekirby.netlify.app).
 
 * Find me on LinkedIn at [linkedin.com/in/jackrekirby/](https://www.linkedin.com/in/jackrekirby/)
 
